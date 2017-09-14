@@ -14,6 +14,7 @@ title: "Platform Portal"
 #### Fixes
 
 * Deleting a document will no longer delete the corresponding discussion thread. Instead, in the discussion thread a note will be added that the previously uploaded document was deleted. Conversely, it's no longer possible to delete a discussion thread which has comments with uploaded documents. (Ticket 46480)
+* Updated the Excel import functionality with various fixes and security improvements. 
 
 ### August 30th, 2017
 
